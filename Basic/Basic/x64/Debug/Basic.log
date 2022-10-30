@@ -1,3 +1,2 @@
 ﻿  Basic.cpp
-C:\GitHub\PracticingCPlusPlus\Basic\Basic\Basic.cpp(8,16): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
   Basic.vcxproj -> C:\GitHub\PracticingCPlusPlus\Basic\x64\Debug\Basic.exe
